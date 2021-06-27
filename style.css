@@ -53,6 +53,14 @@ p{
     max-width: 100%;
     padding: 60px 0;
 }
+.col-6{
+    flex-basis: 35%;
+    min-width: 300px;
+}
+.col-6 img{
+    max-width: 70%;
+    padding: 60px 0;
+}
 .col-2 h1{
     font-size: 60px;
     line-height: 60px;
